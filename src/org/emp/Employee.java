@@ -20,7 +20,14 @@ private void empPhone() {
 private void emp() {
 	System.out.println("kalai");
 }
-
+private void empgender() {
+	System.out.println("male");
+}
+//<<<<<<< HEAD
+//
+//=======
+//
+//>>>>>>> f4e22a69294abf1ffb76855e36c1da05eb7cecf7
 public static void main(String[] args) {
 //className objectName=className
 Employee ee=new Employee();
