@@ -17,6 +17,9 @@ private void empPhone() {
 	System.out.println("empPhone no is 766276272727");
 
 }
+private void emp() {
+	System.out.println("kalai");
+}
 
 public static void main(String[] args) {
 //className objectName=className
